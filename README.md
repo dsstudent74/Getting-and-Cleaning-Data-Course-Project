@@ -22,6 +22,6 @@ Standard_Deviation replaced "STD", and was followed with an underscore, as well 
 
 Github repository
 
-For convenience and reference, this repository includes the full R script, including comments, labeled as "Getting and Cleaning Data Project R Script.txt".
+For convenience and reference, this repository includes the full R script, including comments, labeled as "run_analysis.R".
 
 This repository also includes the final data set, labeled as "Tidy_Data.txt".
